@@ -20,7 +20,7 @@ I created a Python script that analyzed the records and calculated each of the f
 
 <img width="679" alt="Pybank Result" src="https://user-images.githubusercontent.com/120411585/213376610-936df5fd-81b5-4d13-964f-44074ce4215a.png">
 
-To get a detailed look at my script, please visit to the Pybank folder
+To get a detailed look at my script, please visit the Pybank folder
 
 ## PyPoll Instructions
 In the second part of the challenge, I was told to analyze election data from a small rural town.
@@ -42,5 +42,5 @@ Below is a screesnhot of my analysis:
 
 <img width="858" alt="Pypoll Results txt" src="https://user-images.githubusercontent.com/120411585/213375990-84c32754-696b-48f0-ac28-b26666e05f33.png">
 
-To get a detailed look at my script, please visit to the Pypoll folder
+To get a detailed look at my script, please visit the Pypoll folder
 
