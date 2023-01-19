@@ -42,5 +42,5 @@ Below is a screesnhot of my analysis:
 
 <img width="858" alt="Pypoll Results txt" src="https://user-images.githubusercontent.com/120411585/213375990-84c32754-696b-48f0-ac28-b26666e05f33.png">
 
-To get a detailed look at my script, please visit the Pypoll folder, and click on the PypollMain.py file.
+To get a detailed look at my script, please visit the PyPoll folder, and click on the PypollMain.py file.
 
