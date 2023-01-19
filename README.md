@@ -2,9 +2,9 @@
 Python analysis of bank and polling data
 
 ## PyBank Instructions
-In this challenge, I was told to create a Python script to analyze the financial records of my company. I was given a set of financial data called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
+In the first part of the challenge, I was told to create a Python script to analyze the financial records of my company. I was given a set of financial data called budget_data.csv, which is under the Resource folder in my Pybank folder. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
-I created a Python script that analyzed the records to calculate each of the following:
+I created a Python script that analyzed the records and calculated each of the following:
 
 * The total number of months included in the dataset
 
@@ -15,24 +15,18 @@ I created a Python script that analyzed the records to calculate each of the fol
 * The greatest increase in profits (date and amount) over the entire period
 
 * The greatest decrease in profits (date and amount) over the entire period
+ 
+ Below is a screesnhot of my analysis:
 
-Your analysis should look similar to the following:
+<img width="679" alt="Pybank Result" src="https://user-images.githubusercontent.com/120411585/213376610-936df5fd-81b5-4d13-964f-44074ce4215a.png">
 
-<img width="858" alt="Pypoll Results txt" src="https://user-images.githubusercontent.com/120411585/213375990-84c32754-696b-48f0-ac28-b26666e05f33.png">
-
-Financial Analysis
-----------------------------
-Total Months: 86
-Total: $22564198
-Average Change: $-8311.11
-Greatest Increase in Profits: Aug-16 ($1862002)
-Greatest Decrease in Profits: Feb-14 ($-1825558)
-In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+To get a detailed look at my script, please visit to the Pybank folder
 
 ## PyPoll Instructions
-In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
+In the second part of the challenge, I was told to analyze election data from a small rural town.
+the data I analyzed was called election_data.csv, which is under the Resources folder in my PyPoll folder. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". 
 
-You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following:
+I created a Python script that analyzed the votes and calculated each of the following:
 
 * The total number of votes cast
 
@@ -44,15 +38,9 @@ You will be given a set of poll data called election_data.csv. The dataset is co
 
 * The winner of the election based on popular vote
 
-Your analysis should look similar to the following:
+Below is a screesnhot of my analysis:
 
-Election Results
--------------------------
-Total Votes: 369711
--------------------------
-Charles Casper Stockham: 23.049% (85213)
-Diana DeGette: 73.812% (272892)
-Raymon Anthony Doane: 3.139% (11606)
--------------------------
-Winner: Diana DeGette
--------------------------
+<img width="858" alt="Pypoll Results txt" src="https://user-images.githubusercontent.com/120411585/213375990-84c32754-696b-48f0-ac28-b26666e05f33.png">
+
+To get a detailed look at my script, please visit to the Pypoll folder
+
