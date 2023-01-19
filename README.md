@@ -16,7 +16,7 @@ I created a Python script that analyzed the records and calculated each of the f
 
 * The greatest decrease in profits (date and amount) over the entire period
  
- Below is a screesnhot of my analysis:
+ Below is a screesnhot of my analysis directly from my terminal:
 
 <img width="679" alt="Pybank Result" src="https://user-images.githubusercontent.com/120411585/213376610-936df5fd-81b5-4d13-964f-44074ce4215a.png">
 
@@ -38,7 +38,7 @@ I created a Python script that analyzed the votes and calculated each of the fol
 
 * The winner of the election based on popular vote
 
-Below is a screesnhot of my analysis:
+Below is a screesnhot of my analysis directly from my terminal:
 
 <img width="858" alt="Pypoll Results txt" src="https://user-images.githubusercontent.com/120411585/213375990-84c32754-696b-48f0-ac28-b26666e05f33.png">
 
