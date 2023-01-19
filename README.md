@@ -18,9 +18,11 @@ I created a Python script that analyzed the records to calculate each of the fol
 
 Your analysis should look similar to the following:
 
-#Financial Analysis
-#----------------------------
-#Total Months: 86
+<img width="858" alt="Pypoll Results txt" src="https://user-images.githubusercontent.com/120411585/213375990-84c32754-696b-48f0-ac28-b26666e05f33.png">
+
+Financial Analysis
+----------------------------
+Total Months: 86
 Total: $22564198
 Average Change: $-8311.11
 Greatest Increase in Profits: Aug-16 ($1862002)
